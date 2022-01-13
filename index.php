@@ -37,3 +37,5 @@
 <script src="files/script123123null=dead.js"></script>
 <script src="files/script.js"></script>
 </html>
+<?php
+?>
