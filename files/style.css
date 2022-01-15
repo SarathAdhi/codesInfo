@@ -58,6 +58,7 @@ html{
     justify-content: center;
     align-items: center;
     width: 90%;
+    margin-right: 5px;
   }
   #submit{
     background-color:rgb(0, 243, 81);
